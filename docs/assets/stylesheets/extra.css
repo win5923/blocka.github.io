@@ -37,5 +37,7 @@
   color: white; 
 }
 
-
+.md-footer__inner:not([hidden]) {
+  padding: .0rem;
+}
 
